@@ -1,1 +1,2 @@
 # appMovieDB
+Тренировка по JS
